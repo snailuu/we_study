@@ -11,6 +11,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "@cmtlyt/base": "^0.8.2",
         "vite": "^5.4.8"
     }
 }
